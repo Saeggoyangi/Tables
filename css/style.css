@@ -1,0 +1,29 @@
+body{
+   font-style: 25px;
+   font-family: verdana,geneva, tahoma, sans-serif;
+}
+
+table{
+    display: flex;
+    border-radius: 5px;
+    border-collapse: collapse;
+    text-align:left;
+    justify-content:center;
+    align-items:center;
+    margin:10cm;
+
+}
+.green{
+    background-color:green;
+    color:white;
+}
+
+th,td{
+    padding:10px;
+    border:10px;
+}
+
+tr,th,td{
+border:1px solid black;
+background-color:
+}
